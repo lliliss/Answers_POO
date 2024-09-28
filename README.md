@@ -28,6 +28,6 @@ Essa organização facilita a manutenção e reutilização. O uso de POO (Progr
 
 <div>
   A questão acima foi proposta de uma prova de Java com POO (Programação Orientada Objeto). No código, foi atribuído atributos para o "aluno" e métodos (usando a palavra-chave "this" (nos métodos)) para referenciar os atributos na classe de Alunos.
-  O código está em um único pacote que nomeamos de "Entities", porém, com sua divisão de classes em "Alunos" e "Application" e com isso podemos colocar diferentes responsabilidades em cada classe. Em "Alunos" será atribuído todas as características que deve conter (com base no pedido da questão). Já em "Application" é onde ocorre a interação com o usuário. Nesta classe, instanciamos um objeto da classe "Alunos" e coletamos informações como o nome do aluno, matrícula, curso e notas por meio de entrada do usuário.
+  O código está em um único pacote que nomeamos de "Entities", porém, com sua divisão de classes em "Alunos" e "Application". E com isso, podemos colocar diferentes responsabilidades em cada classe. Em "Alunos", será atribuído todas as características que deve conter (com base no pedido da questão). Já em "Application", é onde ocorre a interação com o usuário! Nesta classe, instanciamos um objeto da classe "Alunos" e coletamos informações como: o nome do aluno, matrícula, curso e notas por meio de entrada do usuário.
   O conceito utilizado foi o de encapsulação, permitindo que os dados e comportamentos do aluno sejam gerenciados de forma coesa e organizada.
 </div>
